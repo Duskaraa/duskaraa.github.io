@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://duskaraa.github.io/sitemap.xml
